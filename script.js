@@ -3,7 +3,7 @@ const businessName = "Vicky Cloth House";
 const googleReviewLink = "INSERT_HIS_ACTUAL_GOOGLE_REVIEW_LINK_HERE"; 
 
 // YOUR GOOGLE WEB APP URL
-const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzNYgfNflIqN-_a04-axqM4u5VTj5waCDr3ES-z0FugoCC9jYN42qj496L6qcndrryflQ/exec"; 
+const WEB_APP_URL = "https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&hs=36DV&sca_esv=ad011371f989b540&sxsrf=ANbL-n7wfzowhadlxH3FXPNge_xbjLI9EQ:1778837079290&kgmid=/g/11ptvw9mkf&q=Vicky+Cloth+House&shem=rimspwouoe&shndl=30&source=sh/x/loc/act/m1/2&kgs=b6df38d3c1567c8d&utm_source=rimspwouoe,sh/x/loc/act/m1/2#lrd=0x391b8dd00da6b91f:0x3e65cf52e5a11982,3,,,,"; 
 
 // ===== REVIEW TEMPLATES (HUMAN & CASUAL TONE) =====
 const templates = {
